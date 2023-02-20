@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // 有关程序集的一般信息由以下
 // 控制。更改这些特性值可修改
 // 与程序集关联的信息。
-[assembly: AssemblyTitle("Console")]
+[assembly: AssemblyTitle("Cofdream.Console")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("TENCENT")]
+[assembly: AssemblyCompany("COFDREAM")]
 [assembly: AssemblyProduct("Console")]
-[assembly: AssemblyCopyright("Copyright © TENCENT 2023")]
+[assembly: AssemblyCopyright("Copyright © COFDREAM 2023")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
